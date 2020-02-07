@@ -366,4 +366,7 @@ body {
         max-width: 80%;
     }
 
+    .button {
+        animation: fadeInDown 1.5s ease-in-out 1s;
+    }
 }
